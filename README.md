@@ -10,7 +10,7 @@
 - **Languages:** Java, SQL
 - **Frameworks:** Spring Boot, Spring Cloud
 - **Architecture:** Microservices, RESTful APIs
-- **Tools & Platforms:** Git, Docker, Kubernetes, CI/CD, AWS
+- **Tools & Platforms:** Git, Docker, AWS
 - **Practices:** Clean Code, TDD, DDD
 
 ---
@@ -23,8 +23,8 @@
 ---
 
 ### 📫 Let's connect
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Email](mailto:seuemail@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/johnatandantas0)
+- [Email](mailto:dantas.johnatan@gmail.com)
 
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
