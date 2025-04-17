@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Johnatan Dantas
 
-💻 **Senior Software Engineer at Ipiranga**
+💻 **Software Engineer at Ipiranga**
 
 🎯 **Backend-focused developer**, passionate about building scalable and robust systems using **Java** and the **Spring Framework**.
 
